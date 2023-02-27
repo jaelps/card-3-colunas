@@ -17,6 +17,7 @@ body{
     display: flex;
     width: 300px;
     justify-content: center;
+    margin: 110px 0;
 }
 
 .principal_sedans{
